@@ -1,6 +1,6 @@
 # Web Development Project 5 - *Marvel Dashboard*
 
-Submitted by: **Elias Hakenso**
+Submitted by: **Abel Hakenso**
 
 This web app: **The described project is a dashboard that uses data from the Marvel API to provide a convenient overview of information. It presents summary statistics and a list view that can be easily searched and filtered. This dashboard would be particularly appealing to fans of Marvel, who will find it to be a fascinating resource.**
 
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Elias0305Ha/Marvel-Dashboard/blob/main/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/abel-hak/Marvel-Dashboard/blob/main/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
